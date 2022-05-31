@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LinuxPr
 - 👀 I’m interested in upgrading my tech skills
-- 🌱 I’m currently learning AWS and Azure
+- 🌱 I’m currently learning AWS Cloud Practicioner and Solutions Architect Associate.
 - 💞️ I’m looking to collaborate with my teammates to update my repositories 
 - 📫 How to reach me via email: teshikaholmes@gmail.com
 
